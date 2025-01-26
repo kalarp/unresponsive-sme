@@ -6,7 +6,7 @@ The role of a technical writer is to communicate complex concepts to technical a
 
 ## The colour of personality
 
-In his book Surrounded by Idiots, Thomas Erikson states that personality colour differences are responsible for most misunderstandings and conflicts. Knowing your and your colleagues' personality types can help you communicate and work successfully. There are four personality colours:
+In his book *Surrounded by Idiots*, Thomas Erikson states that personality colour differences are responsible for most misunderstandings and conflicts. Knowing your and your colleagues' personality types can help you communicate and work successfully. There are four personality colours:
 
 * Red - fast thinking, fast acting, determined extroverts with strong leadership qualities. They are very pragmatic and want to see immediate benefits or results. They may ignore your approaches if they don't see the reason or if you don't get to the point early enough. So be specific.
 * Yellow - extroverts who focus on social aspects. Very talkative, enthusiastic and outgoing. They don't fit the description of an unresponsive SME, but that doesn't mean you'll get the details you want easily. Their high energy and tendency to drift off into non-business topics can be challenging. With this in mind, try to moderate the discussion to get all the answers you need.
